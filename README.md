@@ -1,4 +1,4 @@
-## Quadratic Root Finder — Newton-Raphson Method
+# Quadratic Root Finder — Newton-Raphson Method
 
 A Python Tkinter application that numerically approximates the **real roots of a quadratic equation** using the **Newton-Raphson method**.
 
@@ -22,4 +22,4 @@ A Python Tkinter application that numerically approximates the **real roots of a
 1. Clone the repo:
    ```bash
    git clone https://github.com/prorammer2025/quadratic-newton.git
-   cd quadratic-newton calcul
+   cd quadratic-newton
